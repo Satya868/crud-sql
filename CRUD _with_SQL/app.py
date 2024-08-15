@@ -91,3 +91,20 @@ class Flipkart:
 
 if __name__ == "__main__":
     app = Flipkart()
+
+
+# 4, 9
+
+# 1 - pour out twice 4 lt water
+# 2 -
+# 3 - pour twice 4lt into 9 gallon
+# 4 - done 
+# 5 - done 
+# 6 - 
+# 7 - 
+# 8 - ZeroDivisionError 
+# 9 - done 
+# 10 - done
+
+
+def
